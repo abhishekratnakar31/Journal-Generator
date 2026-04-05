@@ -1,0 +1,15 @@
+# Node
+node_modules
+.next
+.env
+
+# Python
+venv
+__pycache__
+*.pyc
+
+# Mac
+.DS_Store
+
+# Logs
+npm-debug.log
