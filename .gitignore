@@ -11,5 +11,6 @@ __pycache__
 # Mac
 .DS_Store
 
-# Logs
+# Logs 
+
 npm-debug.log
